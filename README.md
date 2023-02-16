@@ -11,5 +11,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-leonel&layout=compact&theme=radical&show_icons=true)](https://github.com/v-leonel/github-readme-stats)
 ##
-
-![Snake animation]()
