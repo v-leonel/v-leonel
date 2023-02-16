@@ -1,16 +1,15 @@
-### Hi there 👋
+### Seja bem vindo, me chamo Victor Leonel👋
 
-<!--
-**v-leonel/v-leonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Aualmente estou em busca da minha primeira oportunidade como desenvolvedor
+- 🌱 Estudando JAVA
+- 📫 Entre em contato comigo pelo email: victor03leonel@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-leonel&show_icons=true&theme=radical)](https://github.com/v-leonel/github-readme-stats)
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-leonel&layout=compact&theme=radical&show_icons=true)](https://github.com/v-leonel/github-readme-stats)
+##
+
+![Snake animation]()
