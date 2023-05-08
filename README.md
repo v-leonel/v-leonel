@@ -3,7 +3,7 @@
 ##
 - 🔭 Aualmente estou em busca da minha primeira oportunidade como desenvolvedor
 - 🌱 Estudando JAVA
-- 📫 Entre em contato comigo pelo email: victor03leonel@gmail.com
+- 📫 Entre em contato comigo pelo linkedin: (https://www.linkedin.com/in/victor-leonel/)
 
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-leonel&show_icons=true&theme=radical)](https://github.com/v-leonel/github-readme-stats)
