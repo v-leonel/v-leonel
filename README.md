@@ -2,6 +2,7 @@
 
 ##
 - Cursando Análise e desenvolvimento de Sistemas na SPTech
+- Formação profissionalizante em Programação Web Java pelo Instituto Proa
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-leonel&show_icons=true&theme=radical)](https://github.com/v-leonel/github-readme-stats)
 ##
