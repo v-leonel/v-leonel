@@ -1,4 +1,4 @@
-### Seja bem vindo, me chamo Victor Leonel👋
+### Seja bem vindo
 
 ##
 - Cursando Análise e desenvolvimento de Sistemas na SPTech
