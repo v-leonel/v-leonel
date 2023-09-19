@@ -8,8 +8,8 @@
 
 <div>
 <a href="https://github.com/v-leonel">
-  <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=v-leonel&theme=dracula&locale=pt_BR&border=a3a2a0&background=45%2C0D1117%2C0D1117" alt="Victor Leonel" />
- <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=v-leonel&theme=dracula&layout=compact&langs_count=10&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117" />
+  <img width="49%" height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=v-leonel&theme=nord&locale=pt_BR&border=a3a2a0&background=45%2C0D1117%2C0D1117" alt="Victor Leonel" />
+ <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=v-leonel&theme=nord&layout=compact&langs_count=10&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117" />
 
 </div>
 
