@@ -1,7 +1,7 @@
 ### Seja bem vindo
 
 ##
-- Cursando Análise e desenvolvimento de Sistemas na SPTech
+- Cursando Análise e desenvolvimento de Sistemas na São Paulo Tech School
 - Formação profissionalizante em Programação Web Java pelo Instituto Proa e Senac SP
 ##
 <!--![sptech_capa](https://github.com/v-leonel/v-leonel/assets/111584457/d276df6c-098f-4ee2-bbd8-9d3c50d97833) -->
