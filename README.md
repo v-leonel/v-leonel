@@ -1,6 +1,7 @@
 ### Seja bem vindo
 
 ##
+- Atuando como estagiário de tecnologia na Rappi
 - Cursando Análise e desenvolvimento de Sistemas na São Paulo Tech School
 - Formação profissionalizante em Programação Web Java pelo Instituto Proa e Senac SP
 ##
