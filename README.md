@@ -1,9 +1,9 @@
 ### Seja bem vindo
 
 ##
-- Atuando como estagiário de tecnologia na Rappi
-- Cursando Análise e desenvolvimento de Sistemas na São Paulo Tech School
-- Formação profissionalizante em Programação Web Java pelo Instituto Proa e Senac SP
+- Atuando como estagiário de tecnologia na Rappi - 2024
+- Cursando Análise e desenvolvimento de Sistemas na São Paulo Tech School - 2023 / 2025
+- Formação profissionalizante em Programação Web Java pelo Instituto Proa e Senac SP - 2022
 ##
 <!--![sptech_capa](https://github.com/v-leonel/v-leonel/assets/111584457/d276df6c-098f-4ee2-bbd8-9d3c50d97833) -->
 <div>
