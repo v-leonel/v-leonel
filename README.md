@@ -1,7 +1,7 @@
 ### Seja bem vindo
 
 ##
-- Atuando como estagiário de tecnologia na Rappi - 2024
+- Atuando como estagiário de Banco de Dados na Rappi - 2024
 - Cursando Análise e desenvolvimento de Sistemas na São Paulo Tech School - 2023 / 2025
 - Formação profissionalizante em Programação Web Java pelo Instituto Proa e Senac SP - 2022
 ##
