@@ -2,11 +2,15 @@
 
 <div align="center">
 <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=v-leonel&layout=compact&langs_count=15&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117"
-     alt="Functional way is the right way"
      style="margin-top:20px;"
      height="280px"
      width = "40%"
     />
+     
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 </div>
 
 ---
