@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CCCCCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Victor+Leonel;Software+Engineer+from+Brazil,+SP;Graduated+in+Systems+Analysis+and+Development;Focused+on+clean,+efficient+and+scalable+code;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=v-leonel&layout=compact&langs_count=15&hide_border=true&title_color=a3a2a0&text_color=ffffff&bg_color=0d1117"
-       alt="Language stats"
-       height="280px"
-       width="40%" />
+<img src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=v-leonel&layout=compact&langs_count=15&hide_border=true&title_color=a3a2a0&text_color=FFF&bg_color=0d1117"
+     alt="Functional way is the right way"
+     style="margin-top:20px;"
+     height="280px"
+     width = "40%"
+    />
 </div>
 
 ---
